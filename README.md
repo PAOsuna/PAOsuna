@@ -1,6 +1,6 @@
 # Hello, my name its Alejandro Osuna 👋
 
-Im Jr. developer, in my early career I learned in the development of applications in visual studio and java but over time I liked web technologies, where my first technology was with PHP and I am currently learning in the frameworks with node.js and Javascript.
+Im Jr. developer, in my early career I learned in the development of applications in visual studio C# and java but over time I liked web technologies, where my first technology was with PHP and I am currently learning in the frameworks with node.js and Javascript.
 
 # Skills
 
