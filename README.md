@@ -1,6 +1,5 @@
 # Hello, my name its Alejandro Osuna 👋
 
-Im Jr. developer, in my early career I learned in the development of applications in visual studio and java but over time I liked web technologies, where my first technology was with PHP and I am currently learning in the frameworks with node.js and Javascript.
 
 # Skills
 
@@ -9,7 +8,6 @@ Im Jr. developer, in my early career I learned in the development of application
 ![C#](https://img.shields.io/badge/Visual%20Studio-v7.3-blueviolet?style=flat-square&logo=c-sharp)
 ![php](https://img.shields.io/badge/php-5.3%20--%207.4-blue?style=flat-square&logo=php)
 ![laravel](https://img.shields.io/badge/Laravel-7-red?style=flat-square&logo=laravel)
-![node](https://img.shields.io/badge/node--lts%40latest-%3E%3D%206.0.0-brightgreen?style=flat-square&logo=node.js)
 
 # Badges and Certificates
 
