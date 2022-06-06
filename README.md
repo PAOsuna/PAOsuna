@@ -1,6 +1,5 @@
 # Hello, my name its Alejandro Osuna 👋
 
-
 # Skills
 
 ![english](https://img.shields.io/badge/English%20(US)-50%25-green?style=flat-square&logo=)
